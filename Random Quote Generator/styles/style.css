@@ -1,0 +1,86 @@
+body {
+  background-color: lightgrey;
+  font-size: 20px;
+  font-family: "Old English Text MT";
+  padding: 2rem;
+}
+
+header {
+  text-align: left;
+  margin: 3rem 0px;
+}
+
+
+img {
+  width: 35%;
+  border-radius: 5em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.side-bar {
+  float: left;
+  width: 30%;
+}
+
+
+.main {
+  float: left;
+  width: 70%;
+  text-align: center;
+}
+
+.blog-post {
+  border-radius: 1rem;
+  height: 250px;
+  margin: 3rem;
+  padding: 2rem;
+}
+
+.blog-post > h1 {
+  color: black;
+  margin-bottom: 3rem;
+}
+
+.blog-post > p {
+  font-size: 1.5rem;
+}
+
+.Philosopher {
+  width: 100%;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
+
+.special-quote {
+  background-color: black;
+  color: #FFF;
+  border-radius: 2rem;
+  height: 4rem;
+  width: 70%;
+  line-height: 4rem;
+  margin: auto;
+  font-size: 1.5rem;
+}
+
+#quote-title:hover {
+  background-color: crimson
+}
+
+
+#quote-of-the-day {
+  margin: 2rem 0px;
+  font-size: 1.5rem;
+}
+
+#Birthplaces {
+    margin-top: 1rem;
+  }
